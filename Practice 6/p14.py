@@ -28,3 +28,4 @@ del a
 print('Alive:', Ticket.get_alive())
 del b
 print('Alive:', Ticket.get_alive())
+
