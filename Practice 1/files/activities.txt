@@ -1,0 +1,5 @@
+26,10,2026,9,0,90,OOP lecture
+26,10,2026,10,0,60,Study group, library
+26,10,2026,14,30,45,Gym
+27,10,2026,9,30,60,Midterm revision
+15,11,2026,11,0,120,Project meeting
