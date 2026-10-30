@@ -1,0 +1,6 @@
+f = open('abc.txt', 'w')
+s = input('Enter Something: ')
+f.write(s+'\n')
+s = input('Enter Something Else: ')
+f.write(s)
+f.close()
