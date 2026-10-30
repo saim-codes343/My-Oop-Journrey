@@ -1,0 +1,5 @@
+f = open('abc.txt', 'w')
+f.write('This is first line of the text file.\n')
+f.write('This is the second line.\n')
+f.write('This is the third line.')
+f.close()
